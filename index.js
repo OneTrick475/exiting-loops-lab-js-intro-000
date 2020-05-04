@@ -5,5 +5,5 @@ function breakOut(array, changeValue, stopValue){
     }else {array.splice(i, 1, changeValue);}
 }
     return array;
-  
+
   }
